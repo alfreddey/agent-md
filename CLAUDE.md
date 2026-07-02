@@ -27,9 +27,6 @@ When you generate code, prefer the **simplest version that does the job** — wi
 - Extract reusable functions/modules to avoid duplication and long inline logic.
 - Use named variables/constants for non-obvious values (magic numbers, ARNs, resource names), not trivial literals like `0`, `true`, or empty string.
 - Apply these rules across all languages (code, config, infrastructure).
-<<<<<<< HEAD
 
 ## Diagrams
 Keep every label short: 3 words or fewer, or a single relevant noun (e.g. a resource name). Applies to all diagrams — architecture, flowcharts, sequence diagrams, etc. — not just AWS/infra ones.
-=======
->>>>>>> 380ca6935d3921ac495dc6534aba7839f676fa41
